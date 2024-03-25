@@ -1,0 +1,14 @@
+<div class="carousel">
+  <div class="product">
+    <img src="produto1.jpg" alt="Produto 1">
+    <h3>Nome do Produto 1</h3>
+    <p>Descrição do Produto 1</p>
+    <p>R$ 10,00</p>
+  </div>
+  <div class="product">
+    <img src="produto2.jpg" alt="Produto 2">
+    <h3>Nome do Produto 2</h3>
+    <p>Descrição do Produto 2</p>
+    <p>R$ 15,00</p>
+  </div>
+</div>
