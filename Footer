@@ -1,0 +1,18 @@
+<footer>
+  <div class="footer-content">
+    <div class="legal-info">
+      <p>&copy; 2021 PetShop Nome. Todos os direitos reservados.</p>
+    </div>
+    <div class="contact-info">
+      <p>Contato: contato@petshop.com | (XX) XXXX-XXXX</p>
+    </div>
+    <nav class="footer-nav">
+      <ul>
+        <li><a href="#">Termos de Uso</a></li>
+        <li><a href="#">Política de Privacidade</a></li>
+        <li><a href="#">Sobre Nós</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>
