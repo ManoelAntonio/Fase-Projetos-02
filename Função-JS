@@ -1,0 +1,8 @@
+const products = document.querySelectorAll('.product');
+let currentIndex = 0;
+
+setInterval(() => {
+  products[currentIndex].style.display = 'none';
+  currentIndex = (currentIndex + 1) % products.length;
+  products[currentIndex].style.display = 'block';
+}, 5000);
